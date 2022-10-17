@@ -1,6 +1,6 @@
 Hello 
 Learning GIT ... have a great learning
-thank you 
+thank you master
 
 Hello world wassup
 wassup bro
@@ -8,3 +8,4 @@ wassup bro
 This is good git command 
 happy to go
 My dear gubbara!!!
+this is from master
